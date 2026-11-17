@@ -23,7 +23,6 @@ Repositório de estudos práticos de **SQL com PostgreSQL**, com exercícios pro
 | 01 | `LIKE`, `ORDER BY`, `LIMIT` | Solução original registrada; ordenação divergente do enunciado | [SQL](exercicios/01-filtro-santa.sql) · [Documentação](documentacao/01-filtro-santa.md) |
 | 02 | `OR`, `AND`, `<>` | Solução atende ao enunciado | [SQL](exercicios/02-operadores-logicos.sql) · [Documentação](documentacao/02-operadores-logicos.md) |
 | 03 | `NOT IN` e múltiplos padrões | Solução atende ao enunciado | [SQL](exercicios/03-not-in.sql) · [Documentação](documentacao/03-not-in.md) |
-
 | 04 | `COUNT`, `GROUP BY`, `HAVING` | Concluído; aprovado (10/10) | [SQL](exercicios/04-group-by-having.sql) · [Documentação](documentacao/04-group-by-having.md) |
 | 05 | `COUNT(DISTINCT)` e diferença de contagens | Solução autoral registrada | [SQL](exercicios/05-count-distinct.sql) · [Documentação](documentacao/05-count-distinct.md) |
 | 06 | `WHERE`, `GROUP BY`, `HAVING` e ordenação múltipla | Concluído; aprovado | [SQL](exercicios/06-agrupamento-filtros.sql) · [Documentação](documentacao/06-agrupamento-filtros.md) |
